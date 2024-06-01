@@ -1,4 +1,7 @@
 ## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sharad Pokharel</h1>
+<h3 align="center">A passionate tech-enthusiast</h3>
+
 
 <!--
 **sharadpokharel108/sharadpokharel108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
